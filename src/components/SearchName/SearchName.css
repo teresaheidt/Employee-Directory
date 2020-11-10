@@ -1,0 +1,15 @@
+.searchbox {
+  margin-top: 20px;
+}
+
+.btn {
+border-radius: 30%;
+background-color: pink;
+color: purple;
+}
+
+.form-control {
+  border-radius: 30%;
+  text-align: center;
+  color: palevioletred;
+}

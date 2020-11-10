@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Header/Header.css"],"names":[],"mappings":"AAAA,QACI,aAAoB,CACpB,iBAAkB,CAClB,uBACJ","file":"main.ba477c44.chunk.css","sourcesContent":[".header {\n    color: palevioletred;\n    text-align: center;\n    background-color: purple;\n}"]}

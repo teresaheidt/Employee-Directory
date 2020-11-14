@@ -5,7 +5,6 @@
 * How
 * Why
 * Technologies used
-* Images
 * Links
 
 ## About
@@ -20,15 +19,6 @@ Easy to use search engine built in React. Each component was styled with css.
 
 ## Technologies Used
 This is a React.js app. The API used is randomuser, which provides the list of random employees.
-
-## Images
-This is what the app looks like. I wanted to make it bright and cheerful.
-
-![screenshot](imgs/directory.png)
-
-I created a favicon specific to the company.
-
-![screenshot](imgs/favicon.png)
 
 ## Links
 [Github repo](https://github.com/teresaheidt/Employee-Directory.git)
